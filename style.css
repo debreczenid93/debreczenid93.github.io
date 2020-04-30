@@ -12,6 +12,7 @@ main{
 .newsletter-form{
   color: #666666;
   border: 5px solid green;
+  background: white;
   padding: 5px;
   border-radius: 10px;
   position: relative;
