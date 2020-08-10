@@ -94,7 +94,3 @@ input[type="submit"]{
   width: 185px;
   border-radius: 12px;
 }
-
-.feature img:hover {
-  background-color: yellow;
-}
