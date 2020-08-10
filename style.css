@@ -94,3 +94,7 @@ input[type="submit"]{
   width: 185px;
   border-radius: 12px;
 }
+
+.button p:hover {
+  background-color: yellow;
+}
