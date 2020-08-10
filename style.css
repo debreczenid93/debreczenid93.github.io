@@ -95,6 +95,6 @@ input[type="submit"]{
   border-radius: 12px;
 }
 
-.button p:hover {
+.feature img:hover {
   background-color: yellow;
 }
